@@ -2,6 +2,8 @@
 
 Since the [Playwright](https://playwright.dev) can read browser DOM, it is easy to make a test that solves the memory game with a minimal number of moves in no time.
 
+![Recorded test](memory.gif)
+
 ## Installing dependencies
 How to install dependencies:
 ```
@@ -23,6 +25,8 @@ Or you can run a pre-defined script with the command
 ```
 npm run test
 ```
+
+> If the test is too fast for you, you can see for yourself by opening generated ```success.png``` file
 
 ## Memory Matching Game
 
