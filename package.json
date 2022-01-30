@@ -1,0 +1,15 @@
+{
+  "name": "memory",
+  "version": "1.0.0",
+  "description": "Solving memory game with Playwright framework",
+  "main": "app.js",
+  "scripts": {
+    "test" : "npx playwright test --headed"
+  },
+  "keywords": [],
+  "author": "Marko Simic",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.18.1"
+  }
+}
